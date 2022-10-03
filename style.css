@@ -9,19 +9,15 @@ span
 }
 #camera , #result
 {
-  border: 2px dashed black;
+  border: 2px dashed white;
   width: 350px;
   height: 300px; 
 }
-#result_emotion_name ,#result_emotion_name2  
-{
-  color: black;
-}
-.emotion_name
+.object_name
 {
   font-size: 40px;
 }
-.emoji
+.gesture_icon
 {
   font-size:48px;
 }
@@ -34,7 +30,7 @@ span
 label
 {
   font-size: 14px;
-  color: #ff0000;
+  color: #62b33a;
   padding: 6px;
   border-radius: 10px;
   background-color: white;
